@@ -1,0 +1,7 @@
+D:\Code Learning\DesignPattern\Abstract Factory_Pattern\obj\Debug\AbstractFactory_Pattern.csprojAssemblyReference.cache
+D:\Code Learning\DesignPattern\Abstract Factory_Pattern\obj\Debug\AbstractFactory_Pattern.csproj.CoreCompileInputs.cache
+D:\Code Learning\DesignPattern\Abstract Factory_Pattern\bin\Debug\AbstractFactory_Pattern.exe.config
+D:\Code Learning\DesignPattern\Abstract Factory_Pattern\bin\Debug\AbstractFactory_Pattern.exe
+D:\Code Learning\DesignPattern\Abstract Factory_Pattern\bin\Debug\AbstractFactory_Pattern.pdb
+D:\Code Learning\DesignPattern\Abstract Factory_Pattern\obj\Debug\AbstractFactory_Pattern.exe
+D:\Code Learning\DesignPattern\Abstract Factory_Pattern\obj\Debug\AbstractFactory_Pattern.pdb
