@@ -43,11 +43,24 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Scripts\Burger\ChickenBurger.cs" />
+    <Compile Include="Scripts\Burger\VegBurger.cs" />
+    <Compile Include="Scripts\ColdDrink\Coke.cs" />
+    <Compile Include="Scripts\ColdDrink\Pepsi.cs" />
+    <Compile Include="Scripts\Item\Burger.cs" />
+    <Compile Include="Scripts\Item\ColdDrink.cs" />
+    <Compile Include="Scripts\Item\Item.cs" />
+    <Compile Include="Scripts\Meal.cs" />
+    <Compile Include="Scripts\MealBuilder.cs" />
+    <Compile Include="Scripts\Packing\Bottle.cs" />
+    <Compile Include="Scripts\Packing\Packing.cs" />
+    <Compile Include="Scripts\Packing\Wrapper.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
